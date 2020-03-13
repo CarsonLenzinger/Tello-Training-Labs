@@ -88,7 +88,7 @@ try:
 
 
         cube()
-        flip()
+        ending()
 
         sendmsg('land')
 
